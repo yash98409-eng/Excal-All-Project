@@ -187,18 +187,6 @@ Install the Python dependencies:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
----
-
-## 🔐 Data Privacy & Responsible Analytics
-
-Employee data is sensitive. This project should use synthetic, anonymized, or properly authorized data.
-
-- Do not publish employee names, IDs, phone numbers, salaries, or attendance records that could identify real individuals.
-- Use aggregated metrics for public dashboard screenshots.
-- Apply appropriate access controls to confidential HR data.
-- Treat overtime and absence indicators as signals for investigation, not proof of poor employee performance.
-
----
 
 ## 🧠 Skills Demonstrated
 
